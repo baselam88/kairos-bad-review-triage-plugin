@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Drafts owner-tone responses to negative reviews within 24 hours \u2014 calm, specific, no compensation offered without owner sign-off.",
+  "keywords": [
+    "bad",
+    "kairos",
+    "review",
+    "small business",
+    "triage"
+  ],
+  "license": "MIT",
+  "name": "kairos-bad-review-triage",
+  "repository": "https://github.com/baselam88/kairos-bad-review-triage-plugin",
+  "version": "0.1.0"
+}
